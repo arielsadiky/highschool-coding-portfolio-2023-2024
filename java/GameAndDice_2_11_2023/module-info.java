@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ariel
+ *
+ */
+module GameAndDice {
+}
